@@ -1,2 +1,2 @@
-def add_numbers(num1, num2):
-    return num1 + num2
+def find_biggest_number(n, m):
+    return max(n, m)
